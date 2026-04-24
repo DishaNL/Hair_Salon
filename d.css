@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+
+    background-image: url("1.png"); 
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+footer{
+    margin-top:auto;
+}
+
+img {
+    border-radius: 10px;
+    border: 2px solid #d4af37;
+}
+
