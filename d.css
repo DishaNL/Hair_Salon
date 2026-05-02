@@ -19,3 +19,13 @@ img {
     border: 2px solid #d4af37;
 }
 
+#order{
+    font-family: "Monotype Corsiva";
+    font-size: 60px;
+    text-shadow: 2px 2px 5px black;
+}
+
+.special{
+text-align: center;
+    color: yellow;
+}    
